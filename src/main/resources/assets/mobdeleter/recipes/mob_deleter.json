@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XYX",
+      "AZA",
+      "XXX"
+    ],
+    "key": {
+        "X":{"item":"minecraft:iron_ingot"},
+        "Y":{"item":"minecraft:redstone"},
+        "Z":{"item":"mobdeleter:mobdata_chip"},
+        "A":{"item":"minecraft:iron_block"}
+    },
+    "result": {
+      "item": "mobdeleter:mob_deleter_block",
+      "data": 0
+    }
+  }

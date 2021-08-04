@@ -1,0 +1,11 @@
+#Language File
+container.mobdeleter.mob_deleter_block=Mob Deleter
+
+itemGroup.mob_deleter_tab=Mob Deleter
+
+tile.mob_deleter_block.name=Mob Deleter
+tile.fire_charge_deleter.name=Fire Charge Deleter
+
+item.data_chip.name=Mobdata chip
+item.upgrade_chip.0.name=Range extend chip
+item.upgrade_chip.1.name=Mob drops recovery chip

@@ -1,0 +1,11 @@
+{
+    "parent":"block/cube",
+    "textures":{
+        "up":"mobdeleter:blocks/mob_deleter_block-up",
+        "down":"mobdeleter:blocks/mob_deleter_block-down",
+        "north":"mobdeleter:blocks/mob_deleter_block-side",
+        "south":"mobdeleter:blocks/mob_deleter_block-side",
+        "east":"mobdeleter:blocks/mob_deleter_block-side",
+        "west":"mobdeleter:blocks/mob_deleter_block-side"
+    }
+}

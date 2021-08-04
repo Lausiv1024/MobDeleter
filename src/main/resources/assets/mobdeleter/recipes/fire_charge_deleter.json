@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "XZX",
+    "XAX"
+  ],
+  "key": {
+    "X":{"item":"minecraft:iron_ingot"},
+    "Y":{"item":"minecraft:ghast_tear"},
+    "Z":{"item":"mobdeleter:mob_deleter_block"},
+    "A":{"item":"minecraft:redstone"}
+  },
+  "result": {
+    "item": "mobdeleter:fire_charge_deleter",
+    "data": 0
+  }
+}

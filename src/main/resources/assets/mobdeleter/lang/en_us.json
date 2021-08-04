@@ -1,0 +1,10 @@
+{
+"container.mobdeleter.mob_deleter_block":"Mob Deleter",
+"itemGroup.mob_deleter_tab":"Mob Deleter",
+"block.mobdeleter.mob_deleter_block":"Mob Deleter",
+  "block.mobdeleter.fire_charge_deleter" : "Fire Charge Deleter",
+"item.mobdeleter.mobdata_chip":"Mobdata chip",
+"item.mobdeleter.upgrade_chip-range":"Range extend chip",
+"item.mobdeleter.upgrade_chip-collect":"Mob drop collection chip",
+"block.mobdeleter.ep_glowstone":"Exposion Pro GlowStone"
+}

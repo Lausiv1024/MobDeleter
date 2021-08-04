@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XYX",
+      "ZZZ",
+      "XYX"
+    ],
+    "key": {
+        "X":{"item":"minecraft:redstone"},
+        "Y":{"item":"minecraft:gold_ingot"},
+        "Z":{"item":"minecraft:iron_ingot"}
+    },
+    "result": {
+      "item": "mobdeleter:mobdata_chip", "count" : 1
+    }
+  }

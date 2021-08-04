@@ -1,0 +1,12 @@
+#言語ファイルな
+container.mobdeleter.mob_deleter_block=モブ削除装置
+
+itemGroup.mob_deleter_tab=モブ削除装置
+
+tile.mob_deleter_block.name=モブ削除装置
+tile.fire_charge_deleter.name=ファイアーチャージ削除装置
+
+
+item.data_chip.name=モブデータ格納チップ
+item.upgrade_chip.0.name=範囲拡張チップ
+item.upgrade_chip.1.name=ドロップアイテム回収チップ

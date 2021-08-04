@@ -1,0 +1,10 @@
+{
+"container.mobdeleter.mob_deleter_block":"モブ削除装置",
+"itemGroup.mob_deleter_tab":"モブ削除装置",
+"block.mobdeleter.mob_deleter_block":"モブ削除装置",
+  "block.mobdeleter.fire_charge_deleter" : "ファイアーチャージ削除装置",
+"item.mobdeleter.mobdata_chip":"モブデータ格納チップ",
+"item.mobdeleter.upgrade_chip-range":"範囲拡張チップ",
+"item.mobdeleter.upgrade_chip-collect":"ドロップアイテム回収チップ",
+"block.mobdeleter.ep_glowstone":"耐爆グロウストーン"
+}

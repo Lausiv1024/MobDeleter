@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " YX",
+      "XZX",
+      "AAA"
+    ],
+    "key": {
+        "X":{"item":"minecraft:iron_ingot"},
+        "Y":{"item":"minecraft:hopper"},
+        "Z":{"item":"minecraft:green_dye"},
+      "A":{"item":"minecraft:gold_ingot"}
+    },
+    "result": {
+      "item": "mobdeleter:upgrade_chip-collect"
+    }
+  }

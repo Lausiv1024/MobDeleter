@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "": {
+      "model" : "mobdeleter:block/fire_charge_deleter"
+    }
+  }
+}
